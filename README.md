@@ -3,9 +3,13 @@
 The Streamio Group
 
 Gabriel Henrique do Rego Barros - gabriel25960@gmail.com
+
 João Pedro Oliveira da Silva - joaopedro.oliveirads@gmail.com
+
 Letícia Barbosa de Farias - leticia2005macena@gmail.com
+
 Vitor Barros de Carvalho - vbarros562@gmail.com
+
 Wellington Viana da Silva Junior - osmcanal@gmail.com
 
 – Descrição Geral do Projeto:
